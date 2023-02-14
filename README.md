@@ -1,1 +1,2 @@
-[![GitHub's Super Linter](https://github.com/ICS20-Programming-JulienL/Unit1-03-HTML-Style/actions/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-JulienL/Unit1-03-HTML-Style/actions/actions)
+[![GitHub's Super Linter]
+(https://github.com/ICS20-Programming-JulienL/Unit1-03-HTML-Style/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-JulienL/Unit1-03-HTML-Style/actions)
